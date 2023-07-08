@@ -18,3 +18,7 @@ In this lab you will continue working with the same Tableau workbook from the la
   - Add filter for the difference values to select only positive values (ie cases where the individual balance is less than the average balance for the group).
 
 - You have plots from the previous lab. Use those plots to create an interactive dashboard for the users
+
+  ### Results
+
+  Into this [Tableau Public](https://public.tableau.com/app/profile/daniel.retana/viz/case_study_ab_test_lod-expressions-dashboards/Dashboard1#1) you can find the final visualization for this lab.
